@@ -1,0 +1,10 @@
+"You can't blame gravity for falling in love. Albert Einstein":1,
+"Look deep into nature, and then you will understand everything better. Albert Einstein":2,
+"Insanity: doing the same thing over and over again and expecting different results. Albert Einstein":3,
+"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. Albert Einstein":4,
+"Peace cannot be kept by force; it can only be achieved by understanding. Albert Einstein":5,
+"We cannot solve our problems with the same thinking we used when we created them. Albert Einstein":6,
+"Try not to become a man of success, but rather try to become a man of value. Albert Einstein":7,
+"The true sign of intelligence is not knowledge but imagination. Albert Einstein":8,
+"Once we accept our limits, we go beyond them. Albert Einstein":9,
+"The true sign of intelligence is not knowledge but imagination. Albert Einstein":10

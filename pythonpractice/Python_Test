@@ -1,0 +1,90 @@
+PRINT "HELLO WORLD" :
+
+# prints oti einai mesa sta eisagwgika opws akrivws einai.
+# Oti einai mesa sta eisagwgika thewreitai "STRING" h alliws "str"!
+# Mporoume na xrhsimopoihsoume mona h dipla eisagwgika analoga tis anagkes mas.
+
+TERMINAL :
+
+# H konsola entolwn tou pc mas
+
+PYTHON H PYTHON3 :
+
+# To python programma pou xreiazetai gia na treksoun ta arxeia mas sto Terminal
+
+EX1.PY :
+
+# ex1 einai to onoma tou programmatos pou ftiaksame kai .py einai to extension tou programmatos...An den valoume .py den prokeitai na treksei.
+
+NOTE : An theloume na grapsoume px Ellhnika h kapoia allh tetoia periergh glwssa tote panw panw sto script mas grafoume # -*- coding: utf-8 -*- , to grafoume akrivws etsi!!!
+
+OCTOTHORPE OR POUND OR HASH OR MESH :
+
+# Einai o xarakthras " # " o opoios ean ton valoume prin apo oti allo grapsoume se mia grammh tote h Python to keimeno to thewrei comment kai den to diavazei.
+
+MATH CHARACTERS :
+
+# + plus
+# - minus
+# / slash ( diairesh pou dinei dekadiko ) or // double slash ( diairesh pou dinei akeraio )
+# * asterisk or multiply
+# % percent ( px 5 % 2 = 1, mas dinei to upoloipo mia diaireshs as poume )
+# < less-than
+# > greater-than
+# <= less-or-equal-than
+# >= greater-or-equal-than
+# == equals to
+
+VARIABLES :
+
+# Ta variables einai oi metavlhtes pou xrhsimopioume.
+# Sta variables prepei na dinoume kala onomata gia na mporoume na katalavainoume ti akrivws kanoun.
+
+FORMAT STRINGS :
+
+# Formatter einai ta symvola pou xrhsimopioume ( %d, %s, %r k.a.), mesa se strings kai ta opoia pernoun ta variables pou exoume hdh perasei kai ta kanoun print mesa sto string etsi wste na mhn xreiazetai na grafoume oloklhres tis lekseis.
+# P.x. my_name = Jordan
+	   print "My name is %s!" % my_name
+	   
+BOOLEANS ( TRUE / FALSE ) :
+
+# Booleans einai kati san on/off apla ta leme True / False kai ta xrhsimopoioume akrivws etsi...gia na doume an kati einai True or False
+
+TRIPLE QUOTES :
+
+#Triple quotes xrhsimopoioume otan theloume na grapsoume kapoio megalo keimeno. Mporoume na valoume """ h ''' analoga ti mas voleyei kalytera.
+
+ESCAPE CHARACTERS :
+
+# Escape chars xrhsimopoioume otan theloume na valoume mesa se kapoio string xarakthres oi opoioi exoun eidiko nohma gia thn Python... P.x \" , \' , \n(ayto shmainei new line kai vazei new line sto keimeno ) ktl
+
+	Escape 		What it does.
+	\\ 			Backslash (\)
+	\' 			Single-quote (')
+	\" 			Double-quote (")
+	\a 			ASCII bell (BEL)
+	\b 			ASCII backspace (BS)
+	\f 			ASCII formfeed (FF)
+	\n 			ASCII linefeed (LF)
+	\N{name}	Character named name in the Unicode database    (Unicode only)
+	\r 			Carriage Return (CR)
+	\t 			Horizontal Tab (TAB)
+	\uxxxx 		Character with 16-bit hex value xxxx (u'' string only)
+	\Uxxxxxxxx 	Character with 32-bit hex value xxxxxxxx (u'' string only)
+	\v 			ASCII vertical tab (VT)
+	\ooo 		Character with octal value ooo
+	\xhh 		Character with hex value hh
+
+USER INPUT :
+
+# Gia na paroume user input grafoume 'raw_input()'. P.x. age = raw_input() h age = int(raw_input()) to opoio metatrepei oti grapsei o user se integer efoson mporei na metatrapei se integer ( to raw_input() apo mono tou dinei panta str).
+
+COMMA after print or at the end of line :
+
+# Mporoume na grapsoume kati kai na valoume koma sto telos ths grammhs etsi wste oti grapsoume apo katw na to thewrhsei h Python oti einai sthn idia line.
+P.x. print "How old are you?",
+	 age = raw_input()
+# Aliws mporoume na grapsoume age = raw_input("How old are you?")
+
+FROM SYS IMPORT ARGV :
+

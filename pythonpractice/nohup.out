@@ -1,0 +1,15 @@
+openjdk version "1.8.0_102"
+OpenJDK Runtime Environment (build 1.8.0_102-8u102-b14.1-2-b14)
+OpenJDK Server VM (build 25.102-b14, mixed mode)
+
+(midori4:21575): GLib-GIO-CRITICAL **: g_file_new_for_uri: assertion 'uri != NULL' failed
+
+(midori4:21575): GLib-GIO-CRITICAL **: g_file_get_uri: assertion 'G_IS_FILE (file)' failed
+
+(midori4:21575): GLib-CRITICAL **: g_variant_new_string: assertion 'string != NULL' failed
+openjdk version "1.8.0_102"
+OpenJDK Runtime Environment (build 1.8.0_102-8u102-b14.1-2-b14)
+OpenJDK Server VM (build 25.102-b14, mixed mode)
+openjdk version "1.8.0_102"
+OpenJDK Runtime Environment (build 1.8.0_102-8u102-b14.1-2-b14)
+OpenJDK Server VM (build 25.102-b14, mixed mode)
